@@ -1,0 +1,36 @@
+
+CREATE DATABASE CaseWorkDb;
+GO
+
+USE CaseWorkDb;
+GO
+
+
+CREATE TABLE Carriers (
+    CarrierID INT PRIMARY KEY IDENTITY(1,1),
+    CarrierName NVARCHAR(100) NOT NULL,
+    CarrierIsActive BIT NOT NULL,
+    CarrierPlusDesiCost INT NOT NULL,
+    CarrierConfigurationId INT NOT NULL
+);
+GO
+
+CREATE TABLE Orders (
+    OrderId INT PRIMARY KEY IDENTITY(1,1),
+    CarrierID INT NOT NULL,
+    OrderDesi INT NOT NULL,
+    OrderDate DATETIME NOT NULL,
+    OrderCarrierCost DECIMAL(18, 2) NOT NULL,
+    FOREIGN KEY (CarrierID) REFERENCES Carriers(CarrierID)
+);
+GO
+
+CREATE TABLE CarrierConfigurations (
+    CarrierConfigurationId INT PRIMARY KEY IDENTITY(1,1),
+    CarrierID INT NOT NULL,
+    CarrierMaxDesi INT NOT NULL,
+    CarrierMinDesi INT NOT NULL,
+    CarrierCost DECIMAL(18, 2) NOT NULL,
+    FOREIGN KEY (CarrierID) REFERENCES Carriers(CarrierID)
+);
+GO

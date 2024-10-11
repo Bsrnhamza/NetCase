@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|solutionrelative:casework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA279FB9-DF48-43C1-9C51-D84CBE1E2446}|CaseWork.Entities\\CaseWork.Entities.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA279FB9-DF48-43C1-9C51-D84CBE1E2446}|CaseWork.Entities\\CaseWork.Entities.csproj|solutionrelative:casework.entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA279FB9-DF48-43C1-9C51-D84CBE1E2446}|CaseWork.Entities\\CaseWork.Entities.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.entities\\models\\carrierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA279FB9-DF48-43C1-9C51-D84CBE1E2446}|CaseWork.Entities\\CaseWork.Entities.csproj|solutionrelative:casework.entities\\models\\carrierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\repositories\\carrierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\repositories\\carrierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA279FB9-DF48-43C1-9C51-D84CBE1E2446}|CaseWork.Entities\\CaseWork.Entities.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.entities\\models\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA279FB9-DF48-43C1-9C51-D84CBE1E2446}|CaseWork.Entities\\CaseWork.Entities.csproj|solutionrelative:casework.entities\\models\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\repositories\\carrierconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\repositories\\carrierconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework\\controllers\\carriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|solutionrelative:casework\\controllers\\carriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework\\controllers\\carrierconfigurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|solutionrelative:casework\\controllers\\carrierconfigurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.dataaccess\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42BD3B-388C-4806-8531-E8A6E0358863}|CaseWork.DataAccess\\CaseWork.DataAccess.csproj|solutionrelative:casework.dataaccess\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F340D8DD-1D53-4B1F-8E96-A354CE1E5E79}|CaseWork.Business\\CaseWork.Business.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.business\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F340D8DD-1D53-4B1F-8E96-A354CE1E5E79}|CaseWork.Business\\CaseWork.Business.csproj|solutionrelative:casework.business\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F340D8DD-1D53-4B1F-8E96-A354CE1E5E79}|CaseWork.Business\\CaseWork.Business.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework.business\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F340D8DD-1D53-4B1F-8E96-A354CE1E5E79}|CaseWork.Business\\CaseWork.Business.csproj|solutionrelative:casework.business\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|solutionrelative:casework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|c:\\users\\hamzabsrn\\source\\repos\\casework\\casework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77C747F1-3D0D-4ED5-A240-6AB41B5F6618}|CaseWork\\CaseWork.csproj|solutionrelative:casework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarrierConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\Models\\CarrierConfiguration.cs",
+              "RelativeDocumentMoniker": "CaseWork.Entities\\Models\\CarrierConfiguration.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\Models\\CarrierConfiguration.cs",
+              "RelativeToolTip": "CaseWork.Entities\\Models\\CarrierConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:34:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CaseWork\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CaseWork\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA4wC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:46:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarrierConfigurationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Repositories\\CarrierConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\Repositories\\CarrierConfigurationRepository.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Repositories\\CarrierConfigurationRepository.cs",
+              "RelativeToolTip": "CaseWork.DataAccess\\Repositories\\CarrierConfigurationRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswE4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:45:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Repositories\\CarrierRepository.cs",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\Repositories\\CarrierRepository.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Repositories\\CarrierRepository.cs",
+              "RelativeToolTip": "CaseWork.DataAccess\\Repositories\\CarrierRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:42:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "CaseWork.DataAccess\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:44:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CaseWork.Entities\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\Models\\Order.cs",
+              "RelativeToolTip": "CaseWork.Entities\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:34:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarrierConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Controllers\\CarrierConfigurationController.cs",
+              "RelativeDocumentMoniker": "CaseWork\\Controllers\\CarrierConfigurationController.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Controllers\\CarrierConfigurationController.cs",
+              "RelativeToolTip": "CaseWork\\Controllers\\CarrierConfigurationController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA9wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:46:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarrierController.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Controllers\\CarrierController.cs",
+              "RelativeDocumentMoniker": "CaseWork\\Controllers\\CarrierController.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Controllers\\CarrierController.cs",
+              "RelativeToolTip": "CaseWork\\Controllers\\CarrierController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:43:14.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrier.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\Models\\Carrier.cs",
+              "RelativeDocumentMoniker": "CaseWork.Entities\\Models\\Carrier.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\Models\\Carrier.cs",
+              "RelativeToolTip": "CaseWork.Entities\\Models\\Carrier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:34:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Component1.razor",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\Component1.razor",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Component1.razor",
+              "RelativeToolTip": "CaseWork.DataAccess\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:00:53.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\_Imports.razor",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\_Imports.razor",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\_Imports.razor",
+              "RelativeToolTip": "CaseWork.DataAccess\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:50:03.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CaseWork.DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:33:11.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "CaseWork.DataAccess\\ExampleJsInterop.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\ExampleJsInterop.cs",
+              "RelativeToolTip": "CaseWork.DataAccess\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:49:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Business\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "CaseWork.Business\\ExampleJsInterop.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Business\\ExampleJsInterop.cs",
+              "RelativeToolTip": "CaseWork.Business\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:49:32.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Business\\Component1.razor",
+              "RelativeDocumentMoniker": "CaseWork.Business\\Component1.razor",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Business\\Component1.razor",
+              "RelativeToolTip": "CaseWork.Business\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:49:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\appsettings.json",
+              "RelativeDocumentMoniker": "CaseWork\\appsettings.json",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\appsettings.json",
+              "RelativeToolTip": "CaseWork\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T19:35:09.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Program.cs",
+              "RelativeDocumentMoniker": "CaseWork\\Program.cs",
+              "ToolTip": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork\\Program.cs",
+              "RelativeToolTip": "CaseWork\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:35:08.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

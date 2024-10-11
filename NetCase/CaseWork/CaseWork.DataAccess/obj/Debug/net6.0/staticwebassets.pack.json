@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CaseWork.DataAccess.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CaseWork.DataAccess.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.DataAccess\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CaseWork.DataAccess.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CaseWork.DataAccess.props",
+      "PackagePath": "build\\CaseWork.DataAccess.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CaseWork.DataAccess.props",
+      "PackagePath": "buildMultiTargeting\\CaseWork.DataAccess.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CaseWork.DataAccess.props",
+      "PackagePath": "buildTransitive\\CaseWork.DataAccess.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

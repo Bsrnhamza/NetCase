@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CaseWork.Entities.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CaseWork.Entities.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\HamzaBsrn\\source\\repos\\CaseWork\\CaseWork.Entities\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CaseWork.Entities.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CaseWork.Entities.props",
+      "PackagePath": "build\\CaseWork.Entities.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CaseWork.Entities.props",
+      "PackagePath": "buildMultiTargeting\\CaseWork.Entities.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CaseWork.Entities.props",
+      "PackagePath": "buildTransitive\\CaseWork.Entities.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

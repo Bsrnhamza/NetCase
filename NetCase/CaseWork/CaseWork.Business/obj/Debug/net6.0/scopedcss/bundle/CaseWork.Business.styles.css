@@ -1,0 +1,10 @@
+@import '_content/CaseWork.DataAccess/CaseWork.DataAccess.bundle.scp.css';
+@import '_content/CaseWork.Entities/CaseWork.Entities.bundle.scp.css';
+
+/* _content/CaseWork.Business/Component1.razor.rz.scp.css */
+.my-component[b-wzo5u53xro] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
